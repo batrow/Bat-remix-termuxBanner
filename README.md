@@ -31,11 +31,11 @@ $ ls
 
 $ chmod +x *
 
-$ bash Bat-remix.sh
+$ bash Bat-Remix.sh
 
 ##To Remove Banner  Commands for termux
 
-$ cd Bat-remix-termuxBanner
+$ cd Bat-Remix-termuxBanner
 
 $ ls
 
