@@ -25,7 +25,7 @@ $ git clone https://github.com/batrow/Bat-remix-termuxBanner.git
 
 $ ls
 
-$ cd Bat-Remix
+$ cd Bat-remix-termuxBanner
 
 $ ls
 
@@ -35,7 +35,7 @@ $ bash Bat-remix.sh
 
 ##To Remove Banner  Commands for termux
 
-$ cd Bat-Remix
+$ cd Bat-remix-termuxBanner
 
 $ ls
 
@@ -43,7 +43,7 @@ $ bash remove-banner.sh
 
 ##To Remove LoginCommands for termux
 
-$ cd Bat-Remix
+$ cd Bat-remix-termuxBanner
 
 $ ls
 
