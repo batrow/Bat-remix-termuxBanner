@@ -13,3 +13,44 @@ word best termux banner  add password an sound , banner you name
    
    
    
+   WANNA TRY THIS NEW CUSTOMISATION OF TERMUX? IT'LL GIVE A MODERN LOOK TO YOUR TERMUX TO SHOW OFF :)
+   
+##Installation Bat-RemixCommands for termux
+
+$ termux-setup-storage
+  
+$ pkg update && pkg upgrade && pkg install git -y
+
+$ git clone https://github.com/batrow/Bat-remix-termuxBanner.git
+
+$ ls
+
+$ cd T-Remix
+
+$ ls
+
+$ chmod +x *
+
+$ bash t-remix.sh
+
+##To Remove Banner  Commands for termux
+
+$ cd T-Remix
+
+$ ls
+
+$ bash remove-banner.sh
+
+##To Remove LoginCommands for termux
+
+$ cd T-Remix
+
+$ ls
+
+$ bash remove-login.sh
+
+Development by SITHUM BATROW
+
+Keep connected for hacking tools, Thank you.
+   
+   
